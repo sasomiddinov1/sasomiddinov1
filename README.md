@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayfiddin Asomiddinov</h1>
+<h1 align="center">Hi 🫂, I'm Sayfiddin Asomiddinov</h1>
 <h3 align="center">A passionate frontend developer from back-end developer.</h3>
 
 - 🔭 I’m currently working on **dashboard**
