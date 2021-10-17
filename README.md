@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Html, Css, Js, bootstrap, Python, Django!
 - 📫 How to reach me: sayfiddina53@gmail.com
 - 😄 Pronouns: Says
-- ⚡ Fun fact: i'm leyzi
+- ⚡ Fun fact: i'm lazy
 
