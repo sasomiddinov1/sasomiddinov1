@@ -22,7 +22,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
+ <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 
 
 
